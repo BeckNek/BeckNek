@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @BeckNek
-- 👀 I’m interested in Frontend Developing
-- 🌱 I’m currently learning Computer-science
+- 👋 Hi, I’m Bereket
+- 👀 I’m interested in Backend Developing
+- 🌱 I have a bachelor's degree in Computer-science
 - 💞️ I’m looking to collaborate on any kind of Project
 - 📫 How to reach me beckkriyad@gmail.com
 
