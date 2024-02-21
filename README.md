@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Bereket
-- 👀 I’m interested in Backend Development
-- 🌱 I have a bachelor's degree in Computer-science
 - 📫 How to reach me beckkriyad@gmail.com
 
 <!---
